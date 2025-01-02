@@ -1,6 +1,6 @@
 from setuptools import find_packages,setup
 from typing import List
-
+#修改完代码要保存一下，然后再运行...傻了
 HYPEN_E_DOT='-e .' 
 def get_requirements(file_path: str) -> List[str]:
     '''
